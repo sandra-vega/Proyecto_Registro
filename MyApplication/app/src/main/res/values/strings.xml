@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="BotonAceptar">Agregar</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Email">Email</string>
+    <string name="Twitter">Twitter</string>
+    <string name="Tel">Tel</string>
+    <string name="Fecha_Nacimiento">Fecha Naciento</string>
+    <string name="BotonGuardar">Guardar</string>
+</resources>
